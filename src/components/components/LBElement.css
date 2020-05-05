@@ -1,0 +1,48 @@
+.lb-company {
+    color: honeydew;
+    background-color: hotpink;
+    text-align: center;
+    flex-flow: row;
+    margin: 10%;
+    height: 45;
+    width: 80%;
+    display: flex;
+}
+
+.lb-user {
+    color: honeydew;
+    background-color: hotpink;
+    text-align: center;
+    flex-flow: row;
+    margin: 10%;
+    height: 45;
+    width: 80%;
+    display: flex;
+}
+
+.lb-element {
+    color: honeydew;
+    background-color: hotpink;
+    text-align: center;
+    flex-flow: row;
+    margin: 10%;
+    height: 45;
+    width: 80%;
+    display: flex;
+}
+
+.lb-element-icon {
+    margin: 5px;
+    height: 35;
+    width: 35;
+}
+
+.lb-element-btn {
+    text-align: left;
+    margin-left: 5%;
+    width: 95%;
+}
+
+.lb-line {
+    width: 80%;
+}
